@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://ipa.ipasign.cc:2052/sign/20230105212113766/cc0f5363-2a7b-3339-893a-1a9144abd9cc/resign_20230105212113766.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://Youkox11.github.io/icon.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>p3.xyz.yyyue.esign050123</string>
+<key>bundle-version</key>
+<string>4.7.3</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>ESign Free Access</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
